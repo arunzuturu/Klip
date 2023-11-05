@@ -1,0 +1,5 @@
+cupertino_icons: ^1.0.0
+animate_do: ^1.7.5
+image: ^2.1.19
+carousel_slider: ^3.0.0
+word_search: ^0.1.2
